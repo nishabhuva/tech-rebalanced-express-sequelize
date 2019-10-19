@@ -22,13 +22,14 @@ Welcome, Tech, Rebalanced!
 
 `npm init (keep hitting enter) `
 
+`npm i -g sequelize-cli`
+
+`sequelize init`
+
 `npm i --save sequelize pg pg-hstore`
 
 `createdb my-tech-role-models-dev`
 
-`npm i -g sequelize-cli`
-
-`sequelize init`
 
 ## Setting up the Database and Model(s)
 1. Open this folder in your favorite text editor (for example, https://atom.io/)
