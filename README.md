@@ -1,11 +1,10 @@
 # No Time to REST: An example of a RESTful API with Sequelize and Express
 
 Welcome, Tech, Rebalanced! 
-** For a link to the slides from my presentation, please see:  **
 
 ## Initializing the Express App with Sequelize
 1. Install node.js (https://nodejs.org/en/download/)
-2. Install PostgresSQL `brew install postgres` (You need to have Homebrew installed first. If you don't, see https://brew.sh/)
+2. Install PostgresSQL `brew install postgres` (You need to have Homebrew installed first. If you don't and have a Mac or Linux, see https://brew.sh/. Otherwise, you can use the installer straight from the Postgres website.)
 3. Navigate to the directory where you want a folder to be created (e.g. Desktop)
 4. Enter the following:
 
