@@ -92,5 +92,5 @@ router.get('/', (req, res, next) => {
 4. `npm run start`
 5. Open your browser and type in `localhost:3000`
 
-## What's Next?
-Congrats on creating an Express app, setting up a database and model, and creating a show route! 
+## Congrats!
+Congrats on creating an Express app, setting up a database and model, and creating a show route! We'll talk about what's next.
