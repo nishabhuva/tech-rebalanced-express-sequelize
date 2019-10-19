@@ -1,0 +1,7 @@
+{
+  "development": {
+    "database": "my-tech-role-models-dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
