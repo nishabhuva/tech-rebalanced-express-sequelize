@@ -80,7 +80,7 @@ module.exports = {
 
 ## Creating the Routes
 1. Back to your text editor, go to `RESTful-express-sequelize/routes/index.js`
-2. Add `var techRoleModel = require('../models').techRoleModel`
+2. Add `var techRoleModel = require('../models').techrolemodel`
 3. Add 
 ```
 router.get('/', (req, res, next) => { 
